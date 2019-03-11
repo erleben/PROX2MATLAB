@@ -1,4 +1,4 @@
-# vToolBox
+# PROX2MATLAB
 This is a toolbox for experimental verification of numerical methods for rigid body simulation or related types of simulation. It is a collection of various matlab scripts used for creating convergence plots, writing tables of measurements or making histograms and much more.
 
 This toolbox of scripts is provided as is. No real documentation is provided. The idea is to run the run_me.m file to get an idea of the kind of plots and tables these tools can automatically create for you. One simply copies these scripts and tweak and hack them into ones own data formats or needs. Looking into the file run_me.m will show many examples of how to use the toolbox of scripts and also how to easily organize test data such that it is possible to re-run ones data-processing easily.
